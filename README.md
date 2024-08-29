@@ -23,9 +23,13 @@
 
 **Retrieval Augmented Generation (RAG)** is an advanced method that combines the strengths of retrieval-based and generation-based models. The RAG pipeline first retrieves relevant documents or data chunks from a large corpus based on a user query. It then generates a coherent response by leveraging both the retrieved content and the language model's generative capabilities. This approach ensures that the generated responses are both accurate and contextually relevant.
 
-![RAG Pipeline]
+
 <img width="1449" alt="Screenshot 2024-08-29 at 12 47 35 AM" src="https://github.com/user-attachments/assets/d914ce79-476b-4b55-b32e-4e8671c03a08">
+
+
 <img width="971" alt="Screenshot 2024-08-29 at 12 49 28 AM" src="https://github.com/user-attachments/assets/d881ff86-4ab8-49a6-aa01-6a76878fca35">
+
+
 <img width="808" alt="Screenshot 2024-08-29 at 12 44 14 AM" src="https://github.com/user-attachments/assets/f49311e1-571f-4932-ba5a-f250f4b2e1c7">
 
 
