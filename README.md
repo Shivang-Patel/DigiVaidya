@@ -64,8 +64,8 @@ To set up DigiVaidya locally, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/DigiVaidya.git
-   cd DigiVaidya
+   git clone https://github.com/Shivang-Patel/DigiVaidya.git
+   cd Client
    ```
 
 2. **Install dependencies:**
@@ -75,7 +75,7 @@ To set up DigiVaidya locally, follow these steps:
 
 3. **Run the application:**
    ```bash
-   flask run
+   python app.py
    ```
 
 4. **Access the application:**
@@ -94,3 +94,12 @@ We welcome contributions! Please fork the repository and submit a pull request t
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Contact
+For any inquiries or feedback, feel free to reach out:
+
+- **Name**: Shivang Pareshbhai Patel
+- **Email**: shivang.patel2303@gmail.com
+- **LinkedIn**: [Shivang Patel](https://linkedin.com/in/shivang-patel-5425ba22b/)
+- **GitHub**: [Shivang-Patel](https://github.com/Shivang-Patel)
+
