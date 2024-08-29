@@ -91,6 +91,10 @@ To set up DigiVaidya locally, follow these steps:
 - **View treatment plans:** Get detailed plans based on Ayurvedic principles.
 - **Explore Charak Samhita:** Access explanations and references from the Charak Samhita text.
 
+## Note
+
+DigiVaidya is **NOT** a replacement of a professional medicial practitioner.
+
 ## Contributing
 
 We welcome contributions! Please fork the repository and submit a pull request to propose changes.
