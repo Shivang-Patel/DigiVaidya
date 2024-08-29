@@ -5,7 +5,6 @@
 
 **DigiVaidya** is an innovative AI-powered Ayurvedic doctor, built using the ancient Ayurvedic textbook **Charak Samhita** as the core reference. Leveraging state-of-the-art AI technology, DigiVaidya offers accurate diagnostics and treatment plans based on centuries-old Ayurvedic wisdom. This project utilizes the **LlamaIndex** framework to create a **Retrieval Augmented Generation (RAG)** pipeline, training the **llama-2-70b-chat** model by Meta on the Charak Samhita.
 
-![DigiVaidya Diagram](path_to_image_1.png)
 
 ## Table of Contents
 
@@ -24,13 +23,16 @@
 
 **Retrieval Augmented Generation (RAG)** is an advanced method that combines the strengths of retrieval-based and generation-based models. The RAG pipeline first retrieves relevant documents or data chunks from a large corpus based on a user query. It then generates a coherent response by leveraging both the retrieved content and the language model's generative capabilities. This approach ensures that the generated responses are both accurate and contextually relevant.
 
-![RAG Pipeline](path_to_image_2.png)
+![RAG Pipeline]
+<img width="1449" alt="Screenshot 2024-08-29 at 12 47 35 AM" src="https://github.com/user-attachments/assets/d914ce79-476b-4b55-b32e-4e8671c03a08">
+<img width="971" alt="Screenshot 2024-08-29 at 12 49 28 AM" src="https://github.com/user-attachments/assets/d881ff86-4ab8-49a6-aa01-6a76878fca35">
+<img width="808" alt="Screenshot 2024-08-29 at 12 44 14 AM" src="https://github.com/user-attachments/assets/f49311e1-571f-4932-ba5a-f250f4b2e1c7">
+
 
 ## About Charak Samhita
 
 The **Charak Samhita** is one of the oldest and most comprehensive ancient texts on Ayurveda, attributed to the ancient Indian scholar **Charaka**. This ancient medical treatise is considered the foundation of Ayurvedic medicine, detailing various treatments, medical ethics, and principles of diagnosis and therapy. For more information, refer to the [Wikipedia page on Charak Samhita](https://en.wikipedia.org/wiki/Charaka_Samhita).
 
-![Knowledge Base](path_to_image_3.png)
 
 ## Model Description
 
@@ -50,7 +52,11 @@ For more details on the Llama-2-70b-chat model, refer to its [documentation on R
 
 Check out the working demo of DigiVaidya in action:
 
-[![Watch the Demo](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
+
+https://github.com/user-attachments/assets/08a04499-8bec-4028-8cbd-0b79a9b17b6d
+
+
+
 
 ## Installation
 
